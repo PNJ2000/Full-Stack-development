@@ -1,0 +1,64 @@
+element.style {
+}
+user agent stylesheet
+script {
+    display: none;
+Backend 1
+
+}
+@media screen and (min-width: 768px) and (max-width: 980px)
+#city td {
+    text-align: justify;
+}
+#city td {
+    color: #333;
+    line-height: 1.7;
+    margin-left: 0;
+}
+#city td, #city ul {
+    font-size: 16px;
+    text-align: justify;
+    font-family: inter-regular,system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Helvetica,Arial,sans-serif;
+}
+user agent stylesheet
+table {
+    border-collapse: separate;
+    text-indent: initial;
+    border-spacing: 2px;
+}
+#city {
+    font: 14px/1.5 Verdana,Arial,Sans-Serif;
+    color: #000;
+    margin-left: 0;
+}
+element.style {
+}
+user agent stylesheet
+script {
+    display: none;
+}
+@media screen and (min-width: 768px) and (max-width: 980px)
+#city td {
+    text-align: justify;
+}
+#city td {
+    color: #333;
+    line-height: 1.7;
+    margin-left: 0;
+}
+#city td, #city ul {
+    font-size: 16px;
+    text-align: justify;
+    font-family: inter-regular,system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Helvetica,Arial,sans-serif;
+}
+user agent stylesheet
+table {
+    border-collapse: separate;
+    text-indent: initial;
+    border-spacing: 2px;
+}
+#city {
+    font: 14px/1.5 Verdana,Arial,Sans-Serif;
+    color: #000;
+    margin-left: 0;
+}

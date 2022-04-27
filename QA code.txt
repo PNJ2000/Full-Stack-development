@@ -1,0 +1,220 @@
+Q and A
+element.style {
+    box-sizing: border-box;
+    margin-bottom: 0px;
+    overflow-wrap: anywhere;
+    direction: ltr;
+}
+.qu-textAlign--start {
+    text-align: start;
+}
+.qu-display--block {
+    display: block;
+}
+.qu-wordBreak--break-word {
+    word-break: break-word;
+}
+.qu-textAlign--start {
+    text-align: start;
+}
+.qu-display--block {
+    display: block;
+}
+.qu-wordBreak--break-word {
+    word-break: break-word;
+}
+<style>
+h1, h2, h3, h4, h5, h6, ul, ol, li, p {
+    margin: 0px;
+    padding: 0px;
+}
+user agent stylesheet
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+.qu-userSelect--text {
+    user-select: text;
+    -webkit-user-select: text;
+    -ms-user-select: text;
+}
+.qu-userSelect--text {
+    user-select: text;
+    -webkit-user-select: text;
+    -ms-user-select: text;
+}
+style attribute {
+    box-sizing: border-box;
+    font: inherit;
+    padding: 0px;
+    width: 100%;
+    position: relative;
+    color: inherit;
+    text-align: inherit;
+    cursor: initial;
+}
+.qu-tapHighlight--white {
+    -webkit-tap-highlight-color: rgba(255,255,255,0.6);
+}
+.qu-tapHighlight--white {
+    -webkit-tap-highlight-color: rgba(255,255,255,0.6);
+}
+.qu-dynamicFontSize--regular {
+    font-size: calc(15px * var(--dynamic-font-scale, 1))!important;
+}
+.qu-dynamicFontSize--regular {
+    font-size: calc(15px * var(--dynamic-font-scale, 1))!important;
+}
+<style>
+html, body {
+    height: 100vh;
+    font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+    font-size: calc(15px * var(--dynamic-font-scale,1));
+    line-height: 1.4;
+    color: rgb(40, 40, 41);
+    direction: ltr;
+    padding-bottom: env(safe-area-inset-bottom);
+}
+style attribute {
+    padding: 0px;
+    margin: 0px;
+    color-scheme: light;
+    --vh: 7.14px;
+}
+<style>
+:root {
+    --dynamic-font-scale: 1;
+}
+<style>
+html {
+    -webkit-tap-highlight-color: rgba(255, 255, 255, 0.6);
+}
+<style>
+html {
+    line-height: 1.15;
+    text-size-adjust: 100%;
+}
+abbr: ""
+accessKey: ""
+align: ""
+attributeStyleMap: StylePropertyMap {size: 0}
+attributes: NamedNodeMap {0: class, 1: width, 2: id, class: class, width: width, id: id, length: 3}
+autocapitalize: ""
+autofocus: false
+axis: ""
+baseURI: "https://www.indiabix.com/computer-science/computer-fundamentals/"
+bgColor: ""
+cellIndex: 1
+ch: ""
+chOff: ""
+childElementCount: 0
+childNodes: NodeList [text]
+children: HTMLCollection []
+classList: DOMTokenList ['bix-td-option', value: 'bix-td-option']
+className: "bix-td-option"
+clientHeight: 31
+clientLeft: 0
+clientTop: 0
+clientWidth: 863
+colSpan: 1
+contentEditable: "inherit"
+dataset: DOMStringMap {}
+dir: ""
+draggable: false
+elementTiming: ""
+enterKeyHint: ""
+firstChild: text
+headers: ""
+height: ""
+hidden: false
+id: "tdOptionDt_E_1083"
+innerHTML: "None of the above"
+innerText: "None of the above"
+inputMode: ""
+isConnected: true
+isContentEditable: false
+lang: ""
+lastChild: text
+localName: "td"
+namespaceURI: "http://www.w3.org/1999/xhtml"
+noWrap: false
+nodeName: "TD"
+nodeType: 1
+nonce: ""
+offsetHeight: 31
+offsetLeft: 28
+offsetParent: table#tblOption_1083.bix-tbl-options
+offsetTop: 123
+offsetWidth: 863
+outerHTML: "<td class=\"bix-td-option\" width=\"99%\" id=\"tdOptionDt_E_1083\">None of the above</td>"
+outerText: "None of the above"
+ownerDocument: document
+parentElement: tr
+parentNode: tr
+part: DOMTokenList [value: '']
+previousElementSibling: td#tdOptionNo_E_1083.bix-td-option
+previousSibling: text
+rowSpan: 1
+scope: ""
+scrollHeight: 31
+scrollLeft: 0
+scrollTop: 0
+scrollWidth: 863
+slot: ""
+spellcheck: true
+style: CSSStyleDeclaration {accentColor: '', additiveSymbols: '', alignContent: '', alignItems: '', alignSelf: '', …}
+tabIndex: -1
+tagName: "TD"
+textContent: "None of the above"
+title: ""
+translate: true
+vAlign: ""
+virtualKeyboardPolicy: ""
+width: "99%"
+
+Which of the following languages is more suited to a structured program?
+
+A.	PL/1
+B.	FORTRAN
+C.	BASIC
+D.	PASCAL
+E.	None of the above
+View Answer Discuss in Forum Workspace Report
+2. 	
+A computer assisted method for the recording and analyzing of existing or hypothetical systems is
+
+A.	Data transmission
+B.	Data flow
+C.	Data capture
+D.	Data processing
+E.	None of the above
+View Answer Discuss in Forum Workspace Report
+3. 	
+The brain of any computer system is
+
+A.	ALU
+B.	Memory
+C.	CPU
+D.	Control unit
+E.	None of the above
+View Answer Discuss in Forum Workspace Report
+4. 	
+What difference does the 5th generation computer have from other generation computers?
+
+A.	Technological advancement
+B.	Scientific code
+C.	Object Oriented Programming
+D.	All of the above
+E.	None of the above
+View Answer Discuss in Forum Workspace Report
+5. 	
+Which of the following computer language is used for artificial intelligence?
+
+A.	FORTRAN
+B.	PROLOG
+C.	C
+D.	COBOL
+E.	None of the above

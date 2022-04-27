@@ -1,0 +1,68 @@
+sign in page
+
+box-sizing: initial;
+    width: 1002px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    align-items: stretch;
+}
+.qu-dynamicFontSize--regular {
+    font-size: calc(15px * var(--dynamic-font-scale, 1))!important;
+}
+.qu-flexDirection--row {
+    flex-direction: row;
+}
+.qu-display--flex {
+    display: flex;
+}
+.qu-px--large {
+    padding-left: 24px;
+    padding-right: 24px;
+}
+.qu-dynamicFontSize--regular {
+    font-size: calc(15px * var(--dynamic-font-scale, 1))!important;
+}
+.qu-flexDirection--row {
+    flex-direction: row;
+}
+.qu-display--flex {
+    display: flex;
+}
+.qu-px--large {
+    padding-left: 24px;
+    padding-right: 24px;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+<style>
+html, body {
+    height: 100vh;
+    font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+    font-size: calc(15px * var(--dynamic-font-scale,1));
+    line-height: 1.4;
+    color: rgb(40, 40, 41);
+    direction: ltr;
+    padding-bottom: env(safe-area-inset-bottom);
+}
+style attribute {
+    padding: 0px;
+    margin: 0px;
+    --vh: 7.14px;
+}
+<style>
+:root {
+    --dynamic-font-scale: 1;
+}
+<style>
+html {
+    -webkit-tap-highlight-color: rgba(255, 255, 255, 0.6);
+}
+<style>
+html {
+    line-height: 1.15;
+    text-size-adjust: 100%;
+}
